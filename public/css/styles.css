@@ -171,10 +171,6 @@ main {
     
     }
  
-    .contentArticles {
-        display: flex;
-        flex-wrap: wrap;
-    }
 
    items:hover{
         box-shadow: 3px 3px 10px  rgb(100, 100, 100);
